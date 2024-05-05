@@ -5,7 +5,7 @@
 	"Description": "Adds compatability for Dwarven Expansion animal houses with Base Hay Capacity.",
 	"UniqueID": "mytigio.dwarven_expansion_base_hay_capacity",
 	"MinimumApiVersion": "2.11.2",
-	"UpdateKeys": ["Nexus:23439"],
+	"UpdateKeys": ["Nexus:23680"],
 	"Dependencies": [
 		{
 			"UniqueID": "mytigio.dwarven_expansion",

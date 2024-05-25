@@ -13,7 +13,10 @@
 				},
 				"mytigio.dwarven_expansion_DeluxeCaveCoop": {
 					"HayCapacity": 84
-				}
+				},
+                "mytigio.dwarven_expansion_LargeCavern": {
+                    "HayCapacity": 84
+                }
             }
         }
     ]

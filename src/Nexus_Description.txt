@@ -12,6 +12,7 @@ Adds a base hay capacity to the Cave / Large Cave / Deluxe Cave animal house bui
 Cave: 28 hay
 Large Cave: 56 hay
 Deluxe Cave: 84 hay.
+Cavern: 84 hay.
 
 Github Repository
 https://github.com/mytigio/SDV_DwarvenExpansionBaseHayCapacityPatch
